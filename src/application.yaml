@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    host: 192.168.111.145
+    port: 5432
+    username: postgres
+    password: postgres
+    database: postgres
+    maxsize: 5
